@@ -1,8 +1,12 @@
 
-![Hello_World_👋_,_I'm_Silvana_Facciolo](https://user-images.githubusercontent.com/47449317/161273409-22300952-cbb4-4467-8736-e3beca33152e.png)
+![👋__Hello_World!_-_I'm_Sil](https://user-images.githubusercontent.com/47449317/161275964-cecc7673-5e28-4928-8e96-e3f96c41488c.png)
+
+---
+
+
 
 - 💻 I’m a full-stack developer 
-- 🌱 I’m currently learning everythingmore 
+- 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate with other content creators
 
 ## Connect with me:
