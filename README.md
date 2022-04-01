@@ -1,4 +1,4 @@
-# Hi there, My name is Silvana Facciolo  👋 
+<img alt="Hello World" src="image.png" />
 
 - 💻 I’m a full-stack developer 
 - 🌱 I’m currently learning everythingmore 
