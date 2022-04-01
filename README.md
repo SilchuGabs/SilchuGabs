@@ -1,10 +1,10 @@
-### Hi there, My name is Silvana Facciolo  👋 
+# Hi there, My name is Silvana Facciolo  👋 
 
 - 💻 I’m a full-stack developer 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on with other content creators
 
-### Connect with me:
+## Connect with me:
 
 - 📫 How to reach me: https://www.linkedin.com/in/silvana-facciolo/
 
