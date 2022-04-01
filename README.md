@@ -1,4 +1,5 @@
-<img alt="Hello World" src="image.png" />
+
+![Hello_World_👋_,_I'm_Silvana_Facciolo](https://user-images.githubusercontent.com/47449317/161273409-22300952-cbb4-4467-8736-e3beca33152e.png)
 
 - 💻 I’m a full-stack developer 
 - 🌱 I’m currently learning everythingmore 
